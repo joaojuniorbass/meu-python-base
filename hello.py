@@ -1,4 +1,4 @@
-#Primeiro programa com python: Hello World
-
+#!/usr/bin/python3
+# Segue o comentário de acordo com a aula aplicada. 
 print("joao".upper())
-print("Hello, World")
+print("Hello, World")   
